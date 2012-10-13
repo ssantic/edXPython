@@ -5,7 +5,7 @@ checking whether a minimum amount of $10 is sufficient, and iterates over
 and over by increasing the amount by $10 until the whole debt is payed.
 '''
 
-balance = 4227
+balance = 4772
 annualInterestRate = 0.2
 
 monthlyInterestRate = annualInterestRate/12
